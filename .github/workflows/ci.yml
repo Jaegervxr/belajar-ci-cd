@@ -18,3 +18,4 @@ jobs:
 
       - name : check HTML tag
         run : grep -qi '<123>' index.html
+        else : "gabisa anjeng"
